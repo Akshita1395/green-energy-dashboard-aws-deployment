@@ -1,14 +1,14 @@
-\# Green Energy Dashboard - AWS Deployment
+\ Green Energy Dashboard - AWS Deployment
 
 
 
-\## Description
+\ Description
 
 This project is an interactive Green Energy Dashboard developed using Python and Streamlit. It visualizes renewable energy data and was deployed on AWS EC2.
 
 
 
-\## Technologies Used
+\ Technologies Used
 
 \- Python
 
@@ -22,19 +22,19 @@ This project is an interactive Green Energy Dashboard developed using Python and
 
 
 
-\## GitHub Repository
+\ GitHub Repository
 
 https://github.com/Akshita1395/green-energy-dashboard-aws-deployment
 
 
 
-\## Live Website
+\ Live Website
 
 http://3.88.140.192:8501
 
 
 
-\## Deployment Steps
+\ Deployment Steps
 
 1\. Launch an Ubuntu EC2 instance.
 
@@ -50,7 +50,7 @@ http://3.88.140.192:8501
 
 
 
-\## Screenshots
+\ Screenshots
 
 All required deployment screenshots are included in the screenshots folder.
 
