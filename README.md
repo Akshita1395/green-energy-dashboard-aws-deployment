@@ -55,14 +55,6 @@ streamlit run app.py
 
 ```
 
-
-
-## 📸 Screenshots
-
-You can find visual walkthroughs of the deployment process and the final dashboard interface in the [`/screenshots`](https://www.google.com/search?q=%5Bhttps://github.com/Akshita1395/green-energy-dashboard-aws-deployment%5D(https://github.com/Akshita1395/green-energy-dashboard-aws-deployment)) folder.
-
----
-
 ## 👤 Author
 
 **Akshita**
